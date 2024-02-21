@@ -4,8 +4,8 @@ import pyperclip
 from password_generator import create_password
 import json
 
-IMAGE_PATE = "logo.png"
-DATA_FILE = "data.json"
+IMAGE_PATE = "../materials/logo/logo.png"
+DATA_FILE = "../materials/data/data.json"
 DEFAULT_LOGIN = "Your@gmail.com"
 
 
